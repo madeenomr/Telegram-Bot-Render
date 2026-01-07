@@ -4,7 +4,7 @@ import time
 
 # --- منطقة الإعدادات ---
 # ضع التوكن الخاص بك هنا بدلاً من النص الموجود بين علامات التنصيص
-TOKEN = "8359787741:AAEjMgEBUulE44MI8sFWCbpFuA8Z-xN3GIY" 
+TOKEN = "8490401192:AAHjiBHpTfN21VOhkS4Gym9p4jd97jamU-o" 
 
 bot = telebot.TeleBot(TOKEN)
 
